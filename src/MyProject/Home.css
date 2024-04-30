@@ -1,0 +1,267 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 16px;
+  box-shadow: 0 1px 3px -2px black;
+  background-color: beige;
+}
+.nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav-logo p {
+  color: black;
+  font-size: 40px;
+  font-weight: 400;
+  /*text-decoration: underline;
+  */border: 2px solid black;
+  border-radius:5px ;
+  animation-name: NavAnimation;
+  animation-duration: 1s;
+  animation-timing-function: ease-in;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  -webkit-border-radius:5px ;
+  -moz-border-radius:5px ;
+  -ms-border-radius:5px ;
+  -o-border-radius:5px ;
+}
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 50px;
+  color: blueviolet;
+  font-size: large;
+  font-weight: 800;
+}
+.nav-menu li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  cursor: pointer;
+}
+.nav-menu li:hover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  cursor: pointer;
+  transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  -webkit-transform: scale();
+}
+.nav-menu hr {
+  border: none;
+  width: 80%;
+  height: 3px;
+  border-radius: 10px;
+  background-color: orange;
+}
+.nav-login button {
+  width: 160px;
+  height: 48px;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 75px;
+  color: white;
+  font-size: large;
+  font-weight: 700;
+  background-color: cadetblue;
+}
+.nav-login button:hover {
+  background-color: chocolate;
+  font-size: x-large;
+}
+.image {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: flex;
+}
+@keyframes NavAnimation {
+  from {
+    transform:translate(2);
+    background-color: chocolate;
+    -webkit-transform:translate(2);
+    -moz-transform:translate(2);
+    -ms-transform:translate(2);
+    -o-transform:translate(2);
+}
+  to {
+    transform:translate(2);
+    background-color: green;
+    -webkit-transform:translate(2);
+    -moz-transform:translate(2);
+    -ms-transform:translate(2);
+    -o-transform:translate(2);
+}
+}
+@keyframes NavAnimation1 {
+  from {
+    background-color: green;
+  }
+  to {
+    background-color: chocolate;
+  }
+}
+
+/* .Image {
+  height: 100vh;
+  width: 100vw;
+} */
+.Image img {
+  width: 100%;
+  height: 500px;
+}
+.Image-shop img {
+  width: 33%;
+  height: 300px;
+  border: 4px solid white;
+}
+/* .shop-All-Loader{
+  display:inline;
+  width: 25%;
+} */
+.Footer-main {
+  cursor: pointer;
+
+  width: 100%;
+  height: 70px;
+  padding: 20px;
+}
+.Footer-main ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+}
+footer {
+  width: 100%;
+  height: 300px;
+  background-color: #112233;
+  color: white;
+}
+.Footer-main ul a {
+  text-decoration: none;
+  font-size: large;
+  font-weight: 400;
+  color: white;
+}
+hr {
+  width: 100%;
+  height: 1px;
+  color: white;
+}
+.Footer-sub {
+  padding: 10px;
+  font-size: medium;
+  text-align: center;
+  height: 150px;
+}
+.Footer-submain {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+  font-size: x-large;
+}
+.submain {
+  font-size: larger;
+  border: 2px solid black;
+  width: 300px;
+  height: 320px;
+  margin: auto;
+  padding: 10px;
+  top: 40%;
+  margin-top: 40px;
+  background-color:bisque;
+}
+.main1 {
+  align-content: center;
+  font-size: larger;
+  padding: 10px;
+}
+.userInfo {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  gap: 40px;
+  border: 2px solid black;
+  padding: 10px 0px;
+  margin-top: 3%;
+}
+.head-nav {
+  height: 50px;
+  width: 100%;
+  background-color: orange;
+  font-size: larger;
+  text-align: center;
+  animation-name: NewAnimation;
+  animation-duration: 2s;
+  animation-timing-function: ease-in;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  padding: 12px;
+  font-weight: 700;
+}
+.head-nav:hover {
+  font-size: x-large;
+}
+@keyframes NewAnimation {
+  0% {
+    left: 0px;
+    background-color: cornflowerblue;
+  }
+  15% {
+    left: 200px;
+    background-color: darkmagenta;
+  }
+  30% {
+    left: 500px;
+    background-color: darkgreen;
+  }
+  45% {
+    left: 700px;
+    background-color: chocolate;
+  }
+  60% {
+    left: 100vw;
+    background-color: deeppink;
+  }
+  80% {
+    left: 100vw;
+    background-color: gold;
+  }
+  100% {
+    left: 100vw;
+    background-color: lawngreen;
+  }
+}
+.deal {
+  background-color: burlywood;
+  text-align: center;
+}
+
+@keyframes ButtonAnimation {
+  from {
+    background-color: cadetblue;
+  }
+  to {
+    background-color: red;
+  }
+}

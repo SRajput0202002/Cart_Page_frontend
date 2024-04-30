@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "pic1",
+    "src": "./Assets/gift1.jpg",
+    "alt": "pic_1"
+  },
+  {
+    "id": 2,
+    "name": "pic2",
+    "src": "./Assets/gift2.jpg",
+    "alt": "pic_2"
+  },
+  {
+    "id": 3,
+    "name": "pic3",
+    "src": "./Assets/gift3.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 4,
+    "name": "pic4",
+    "src": "./Assets/gift4.jpg",
+    "alt": "pic_4"
+  },
+  {
+    "id": 5,
+    "name": "pic5",
+    "src": "./Assets/gift5.jpg",
+    "alt": "pic_5"
+  },
+  {
+    "id": 6,
+    "name": "pic36",
+    "src": "./Assets/gift6.jpg",
+    "alt": "pic_6"
+  },
+  {
+    "id": 7,
+    "name": "pic7",
+    "src": "./Assets/gift7.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 8,
+    "name": "pic8",
+    "src": "./Assets/gift8.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 9,
+    "name": "pic9",
+    "src": "./Assets/gift9.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 10,
+    "name": "pic10",
+    "src": "./Assets/gift10.jpg",
+    "alt": "pic_10"
+  },
+  {
+    "id": 11,
+    "name": "pic11",
+    "src": "./Assets/gift11.jpg",
+    "alt": "pic_11"
+  },
+  {
+    "id": 12,
+    "name": "pic12",
+    "src": "./Assets/gift12.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 13,
+    "name": "pic13",
+    "src": "./Assets/gift13.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 14,
+    "name": "pic14",
+    "src": "./Assets/gift14.jpeg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 15,
+    "name": "pic15",
+    "src": "./Assets/gift15.jpg",
+    "alt": "pic_15"
+  }
+]

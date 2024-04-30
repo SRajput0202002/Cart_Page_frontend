@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "pic1",
+    "src": "./Assets/pic1.jpg",
+    "alt": "pic_1",
+    "Price": 1000
+  },
+ 
+  {
+    "id": 3,
+    "name": "pic3",
+    "src": "./Assets/pic3.jpg",
+    "alt": "pic_3",
+    "Price": 1000
+  },
+  {
+    "id": 4,
+    "name": "pic4",
+    "src": "./Assets/pic4.jpg",
+    "alt": "pic_4",
+    "Price": 1000
+  },
+  {
+    "id": 5,
+    "name": "pic5",
+    "src": "./Assets/pic5.jpg",
+    "alt": "pic_5",
+    "Price": 1000
+  },
+  {
+    "id": 6,
+    "name": "pic6",
+    "src": "./Assets/pic6.jpg",
+    "alt": "pic_6",
+    "Price": 1000
+  },
+  {
+    "id": 7,
+    "name": "pic7",
+    "src": "./Assets/pic7.jpg",
+    "alt": "pic_7",
+    "Price": 1000
+  },
+ 
+  {
+    "id": 9,
+    "name": "pic9",
+    "src": "./Assets/pic9.jpg",
+    "alt": "pic_9",
+    "Price": 1000
+  },
+  
+  
+  {
+    "id": 12,
+    "name": "pic12",
+    "src": "./Assets/pic12.jpg",
+    "alt": "pic_12",
+    "Price": 1000
+  },
+  {
+    "id": 13,
+    "name": "pic13",
+    "src": "./Assets/pic13.jpg",
+    "alt": "pic_13",
+    "Price": 1000
+  },
+  {
+    "id": 14,
+    "name": "pic14",
+    "src": "./Assets/pic14.jpg",
+    "alt": "pic_14",
+    "Price": 1000
+  },
+  {
+    "id": 15,
+    "name": "pic15",
+    "src": "./Assets/pic15.jpg",
+    "alt": "pic_15",
+    "Price": 1000
+  },
+  {
+    "id": 16,
+    "name": "pic16",
+    "src": "./Assets/pic16.jpg",
+    "alt": "pic_16",
+    "Price": 1000
+  }
+ 
+]

@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.btn-Login{
+    background-color: chocolate;
+    height:30px;
+    width:60px;
+    border-radius: 5px;   
+}
+.Shop-title{
+    text-align: center;
+    background-color:cornflowerblue;
+    font-weight: 700;
+}
+.Shop-title2{
+    text-align: center;
+  
+    font-weight: 700;
+    background-color:darksalmon ;
+}
+
+.Women-title {
+    text-align: center;
+    background-color:powderblue;
+    font-weight: 700;
+}
+.Men-title{
+    text-align: center;
+    background-color:powderblue;
+    font-weight: 700;
+}
+.Kids-title{
+    text-align: center;
+    background-color:powderblue;
+    font-weight: 700;
+}
+/* .loader {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px dotted aqua;
+    border-top: 10px dotted orange;
+    animation: spin 3s ease 0s infinite normal;
+    margin: auto;
+  }
+  .loader1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px dotted green;
+    border-top: 10px dotted palevioletred;
+    animation: spin 3s ease 0s infinite normal;
+    margin: auto;
+  }
+  .loader2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px dotted palevioletred;
+    border-top: 10px dotted green;
+    animation: spin 3s ease 0s infinite normal;
+    margin: auto;
+  }
+  .loader3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px dotted aqua;
+    border-top: 10px dotted orange;
+    animation: spin 3s ease 0s infinite normal;
+    margin: auto;
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+ */

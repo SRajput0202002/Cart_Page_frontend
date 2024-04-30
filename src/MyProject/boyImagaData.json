@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "pic1",
+    "src": "./Assets/boy2.jpg",
+    "alt": "pic_1"
+  },
+  {
+    "id": 2,
+    "name": "pic2",
+    "src": "./Assets/boy3.jpg",
+    "alt": "pic_2"
+  },
+  {
+    "id": 3,
+    "name": "pic3",
+    "src": "./Assets/boy4.jpg",
+    "alt": "pic_3"
+  },
+  {
+    "id": 4,
+    "name": "pic4",
+    "src": "./Assets/boy5.jpg",
+    "alt": "pic_4"
+  }
+]
